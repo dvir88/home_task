@@ -1,0 +1,4 @@
+Time: 3.00 sec, Corrected Heading: 0.00 degrees, Current drone location: (5.00, 10.00), Drone's new velocity: Vx = 0.00, Vy = 0.00
+Time: 7.00 sec, Drone is orbiting around target at (11.00, 10.10), Vx = -0.01, Vy = 0.10
+Simulation time limit reached: 10.000000
+

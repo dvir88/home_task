@@ -1,0 +1,8 @@
+﻿  file_read.c
+  sim_params.c
+  main.c
+C:\Users\dvir\source\repos\Autonomous_Drone\main.c(37,29): warning C4013: 'readSimCommands' undefined; assuming extern returning int
+C:\Users\dvir\source\repos\Autonomous_Drone\main.c(103,16): warning C4133: 'function': incompatible types - from 'char [21]' to 'const wchar_t *'
+C:\Users\dvir\source\repos\Autonomous_Drone\main.c(106,58): warning C4101: 'args': unreferenced local variable
+  DroneControl.c
+LINK : fatal error LNK1181: cannot open input file 'python310_d.lib'

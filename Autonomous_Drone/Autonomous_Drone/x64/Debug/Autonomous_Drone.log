@@ -1,0 +1,9 @@
+﻿  file_read.c
+  sim_params.c
+  main.c
+C:\Users\dvir\source\repos\Autonomous_Drone\main.c(37,29): warning C4013: 'readSimCommands' undefined; assuming extern returning int
+C:\Users\dvir\source\repos\Autonomous_Drone\main.c(80,43): warning C4013: 'sqrt' undefined; assuming extern returning int
+C:\Users\dvir\source\repos\Autonomous_Drone\main.c(80,48): warning C4013: 'pow' undefined; assuming extern returning int
+  DroneControl.c
+  Generating Code...
+  Autonomous_Drone.vcxproj -> C:\Users\dvir\source\repos\Autonomous_Drone\x64\Debug\Autonomous_Drone.exe
